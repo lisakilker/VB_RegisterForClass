@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\RegisterForClass\RegisterForClass\bin\Debug\RegisterForClass.exe.config
+c:\users\lisakilker\documents\visual studio 2012\Projects\RegisterForClass\RegisterForClass\obj\Debug\RegisterForClass.Resources.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\RegisterForClass\RegisterForClass\obj\Debug\RegisterForClass.frmRegisterForClass.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\RegisterForClass\RegisterForClass\obj\Debug\RegisterForClass.vbproj.GenerateResource.Cache
+c:\users\lisakilker\documents\visual studio 2012\Projects\RegisterForClass\RegisterForClass\bin\Debug\RegisterForClass.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\RegisterForClass\RegisterForClass\bin\Debug\RegisterForClass.pdb
+c:\users\lisakilker\documents\visual studio 2012\Projects\RegisterForClass\RegisterForClass\bin\Debug\RegisterForClass.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\RegisterForClass\RegisterForClass\obj\Debug\RegisterForClass.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\RegisterForClass\RegisterForClass\obj\Debug\RegisterForClass.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\RegisterForClass\RegisterForClass\obj\Debug\RegisterForClass.pdb
